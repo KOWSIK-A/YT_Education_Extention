@@ -64,8 +64,8 @@ Ensure you have the following installed:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/hari-AI/Athena.git
-   cd athena-ai-study-companion
+   git clone [https://github.com/KOWSIK-A/YT_Education_Extention.git]
+   cd YT_Education_Extention
    ```
 
 2. **Install dependencies**:
